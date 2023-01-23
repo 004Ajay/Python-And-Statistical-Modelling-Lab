@@ -1,4 +1,4 @@
-#Adding two matrix using numpy
+# ADDING TWO MATRIRICES USING NUMPY
 
 import numpy as np
 

@@ -1,3 +1,5 @@
+# PROGRAMMING LANGUAGES IN A BAR GRAPH
+
 import  matplotlib.pyplot as plt
 language = ['C', 'C++', 'Java', 'Python']
 students = [28, 34, 26, 40]

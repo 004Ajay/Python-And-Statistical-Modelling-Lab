@@ -1,3 +1,5 @@
+# VISUALIZATION & ANALYSIS OF DATA IN A CSV FILE
+
 import matplotlib.pyplot as plt
 import pandas as pd
 
