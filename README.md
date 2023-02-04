@@ -1,11 +1,10 @@
-[<p align="center">
-<img src="https://img.icons8.com/color/480/000000/python--v1.png" title = "Python" height='200'></p>](https://www.google.com/search?q=python&rlz=1C1CHBF_enIN998IN998&oq=python&aqs=chrome..69i57j69i59l2j69i60j69i65j69i60l2j69i65.3593j0j4&sourceid=chrome&ie=UTF-8)
+<p align="center">
+<img src="https://img.icons8.com/color/480/000000/python--v1.png" title = "Python" height='200'></p>
 
-<br>
 
----
+<h1 align="center"> PYTHON AND STATISTICAL MODELLING LAB </h1>
 
-# Python And Statistical Modelling Lab
+<!-- ---------------------------------------------------  -->
 
 * [Exp No: 1 → Largest Of Three Numbers](https://github.com/004Ajay/Python-And-Statistical-Modelling-Lab/tree/main/Programs/LargestOfThreeNumbers.py) 
 
